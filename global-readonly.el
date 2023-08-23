@@ -73,4 +73,4 @@
 
 
 
-(provide 'global-readonly-mode)
+(provide 'global-readonly)
